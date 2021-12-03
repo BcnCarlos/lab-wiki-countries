@@ -308,7 +308,7 @@
       "suffixes": ["44"]
     },
     "capital": ["Luanda"],
-    "altSpellings": [
+    "altSpellings": [   
       "AO",
       "Rep\u00fablica de Angola",
       "\u0281\u025bpublika de an'\u0261\u0254la"
@@ -719,7 +719,7 @@
       "ces": {
         "official": "Alb\u00e1nsk\u00e1 republika",
         "common": "Alb\u00e1nie"
-      },
+      }, 
       "cym": {
         "official": "Gweriniaeth Albania",
         "common": "Albania"
